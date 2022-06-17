@@ -2,7 +2,7 @@ package kalah;
 
 import java.util.Scanner;
 
-public class Main {
+public class KalahApp {
   static Scanner input = new Scanner(System.in);
 
   public static void main(String[] args) {
